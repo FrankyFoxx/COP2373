@@ -44,7 +44,7 @@ def run_ticket_program():
     """
 
     # Set the total number of tickets available
-    total_tickets = 20
+    total_tickets = 10
 
     # Accumulator to count how many buyers successfully purchased tickets
     buyers = 0
