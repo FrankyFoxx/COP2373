@@ -7,7 +7,7 @@ def get_ticket_request():
         int: number of tickets requested
     """
     # Prompt the user for how many tickets they want and return the number
-    return int(input("How many tickets would you like to buy (max 4)? "))
+    return int(input("How many seats would you like to reserve (max 4)? "))
 
 
 # Function to validate and process the sale
